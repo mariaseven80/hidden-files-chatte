@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sitemap.chatteum.com/sitemap/sitemap_chatteum.xml
